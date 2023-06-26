@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607344231105",
+    "project_id": "delete-20adc",
+    "storage_bucket": "delete-20adc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607344231105:android:c1148dc2003c97284c0a40",
+        "android_client_info": {
+          "package_name": "com.testappcheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607344231105-c3qdaqqmdvnt9aj2qd4qnhfd95u2c5tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsvyZ6KtaZ7PGkoEf4tDXdFt_svxmQNC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607344231105-c3qdaqqmdvnt9aj2qd4qnhfd95u2c5tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
